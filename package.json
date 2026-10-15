@@ -23,7 +23,7 @@
     "@bahmutov/cypress-esbuild-preprocessor": "^2.2.8",
     "cypress": "^16.1.1"
   },
-  "cypress-cucumber-preprocessor":{
+  "cypress-cucumber-preprocessor": {
     "stepDefinitions": [
       "cypress/e2e/frontend/**/*.js",
       "cypress/e2e/frontend/*.js"
